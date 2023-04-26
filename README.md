@@ -1,1 +1,3 @@
 # .github
+
+Organization configs
